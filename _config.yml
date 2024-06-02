@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://meliodus.github.io/uno-dbyll
+BASE_PATH : http://Focx-o.github.io/uno-dbyll
 
 
 title : uno-dbyll
